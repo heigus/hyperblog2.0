@@ -4,4 +4,4 @@ Se creara este archivo
 
 con el unico objectivo de comprender a git
 
-y lograr ser un desarrollador profesional
+y lograr ser un desarrollador que cambia el mundo
