@@ -1,0 +1,5 @@
+iniciando con git
+
+Se creara este archivo
+
+con el unico objectivo de comprender a git
